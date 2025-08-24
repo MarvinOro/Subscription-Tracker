@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aec546d4-6f3b-436e-a9c1-0194e0e0bad6" name="Changes" comment="" />
+    <list default="true" id="aec546d4-6f3b-436e-a9c1-0194e0e0bad6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DATABASE/mongodb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +34,7 @@
     "Node.js.app.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "js.linters.configure.manually.selectedeslint": "true",
     "junie.onboarding.icon.badge.shown": "true",
@@ -41,6 +48,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.completion",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\WebStorm 2025.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755885132308</updated>
       <workItem from="1755885133856" duration="14589000" />
-      <workItem from="1756056031579" duration="297000" />
+      <workItem from="1756056031579" duration="1987000" />
     </task>
     <servers />
   </component>
